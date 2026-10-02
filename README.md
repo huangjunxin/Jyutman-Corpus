@@ -14,6 +14,7 @@
 | `data/` | 发布层 jsonl 快照（`articles` / `pages` / `issues`），随上游 release 更新 |
 | `schemas/` | 字段语义说明，与上游数据契约对齐 |
 | `rights/` | 版权逐件登记（底本年份、藏本、来源链接、版权判定） |
+| `translations/` | 白话报今译（269 篇，AI 初译未校订）与三语料粤拼音表；说明见 [TRANSLATION_NOTES.md](translations/TRANSLATION_NOTES.md) |
 
 `data/` 待上游首次发布后填充（当前仅有 `.gitkeep`）；`rights/` 已有 Phase 0 产出的首版登记（5 已核 / 4 待核），随核查进展更新。
 
