@@ -1,4 +1,4 @@
-# Jyutman-corpus
+# Jyutman-Corpus
 
 粤语文丛（Jyutman）的文本数据仓。
 
